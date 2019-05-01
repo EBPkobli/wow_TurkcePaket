@@ -7,6 +7,9 @@ http://garde.sylvanas.free.fr/ressources/Guides/Macros-Addons/Wiley-World.of.War
 
 ```diff
 - ÖNEMLİ NOT : Klasörün adını TurkcePaket olarak değiştirip öyle deneyin. Yoksa ÇALIŞMAYACAKTIR.
+
++ Dip NOT : Oyunun içine çeviri yazılımı yazmak mümkün değil gibi gözüküyor. Output mekanizmalarına müsaade etmiyor Blizzard. En fazla illegal yollardan yapılabilir. Kısacası tersine mühendislik yapmanız gerekiyor. Ki bu da çok fazla zaman harcamanız demek oluyor. En mantıklı yol çeviri sitesi yazıp herkese dağıtmak toplu olarak alıp entegre etmek gerektiriyor. Farklı yollarda izlenebilir.
+
 ```
 
 ![alt text](https://i.ibb.co/PD05f4P/1.jpg)
