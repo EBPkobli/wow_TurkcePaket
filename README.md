@@ -1,0 +1,2 @@
+# wow_TurkcePaket
+World of Warcraft Draenor zamanında yazmıştım. Aslında Lua script yani addon kısmı tasarım harici tamamen çalışıyordu. Tek eksiği çevirilerdi. Sadece Orc başlangıç Questlerinin bir kısmını çevirdim. Negatif Feedbackler yüzünden motivasyonumu kaybettim üstüne vizelerde gelince devam etmek istemedim. Fakat devam etmek isteyen olursa diye paylaşmak istedim. Küçük çaplı revizyonlar yapılması gerekiyor. Büyük bir kısmı sorunsuz çalışacaktır.
