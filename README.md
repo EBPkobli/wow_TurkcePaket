@@ -8,3 +8,6 @@ http://garde.sylvanas.free.fr/ressources/Guides/Macros-Addons/Wiley-World.of.War
 ```diff
 - ÖNEMLİ NOT : Klasörün adını TurkcePaket olarak değiştirip öyle deneyin. Yoksa ÇALIŞMAYACAKTIR.
 ```
+
+![alt text](https://i.ibb.co/PD05f4P/1.jpg)
+![alt text](https://i.ibb.co/k64MB0N/2.jpg)
