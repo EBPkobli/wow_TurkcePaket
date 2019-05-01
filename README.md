@@ -6,6 +6,7 @@ http://garde.sylvanas.free.fr/ressources/Guides/Macros-Addons/Wiley-World.of.War
 
 <span style="color:#ff0000">ÖNEMLİ NOT : </span> <span style="color:#00ff00">Klasörün adını TurkcePaket olarak değiştirip öyle deneyin. Yoksa ÇALIŞMAYACAKTIR. </span>
 
-<p style='color:red'>This is some red text.</p>
-<font color="red">This is some text!</font>
-These are <b style='color:red'>red words</b>.
+```diff
++ this will be highlighted in green
+- this will be highlighted in red
+```
