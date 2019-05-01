@@ -1,0 +1,14 @@
+﻿## Interface: 60200
+## Title: |cffff0000Türkçe |cffffff00Paket|r
+## Notes: Versiyon 0.0.1
+
+GorselSinif.xml
+EvrenselDegerler.lua
+
+Fonksiyonlar\fonksiyonBaglayici.xml
+OlayDinleyiciler.lua
+
+GorevBilgileri\Baglayici.xml
+
+
+GorselBaglayici.lua
