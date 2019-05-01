@@ -3,3 +3,5 @@ World of Warcraft Draenor zamanında yazmıştım. Aslında Lua script yani addo
 
 Youtube'da pek bir şey yoktu. Öğrendiğim her şeyi World of Warcraft Programming: A Guide and Reference for Creating WoW Addons Second Edition kitabından öğrendim. PDF'ini aşağıda paylaştım umarım size de faydalı olur.
 http://garde.sylvanas.free.fr/ressources/Guides/Macros-Addons/Wiley-World.of.Warcraft.Programming.A.Guide.and.Reference.for.Creating.WoW.Addons.pdf
+
+<span style="color:#ff0000">ÖNEMLİ NOT : </span> <span style="color:#00ff00">Klasörün adını TurkcePaket olarak değiştirip öyle deneyin. Yoksa ÇALIŞMAYACAKTIR. </span>
